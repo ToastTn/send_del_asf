@@ -33,13 +33,12 @@ def start_bot(my_token,channel_id):
             sendMessage(token,channel_id,"hi")
         time.sleep(61)
 
-my_tokens = {"korzza(hediwl)" : "OTU3Mzk2Mjk3ODAxOTMyOTAw.Ylv4bg.oOx6204G7kJGQwCRnzD41RihBbU",
-"bilbasse" : "OTU3Mzk4MjAwNjczNzkyMDQw.YmBeiw.uh2zbvq-eLz2pNawpO2Utdd9btM",
-"armsl" : "OTU3NDAxNzU3OTU1MjgwOTg2.YmBfww.wwzURPtf6spgxOC82U9gRYJ-SDM",
-#"tmatemtal" : "OTU3Mzk0MTE5MDcwNzQ0NjI3.YmBgRQ.8I-dGJzV75_YD-12jpHLDO4ccL0",
-"PASTark" : "ODUzMzAyMjA0MzA3MzQxMzI3.YmBjHw.GQ5NWXBMy-0JjF_OhgaTl5i8hhE",
-"toastv2(alopoalopo98)" : "ODM0ODgxNzg2NjEzNDY1MTE4.YmBjkw.PTRxsmyh082Gj7R7AW6Jlz_PlHU",
-"svens_7awet" : "OTY2NDI3MjcyMDUzNjc0MDg1.YmBluA.ui5Z8-CCa6zDbS0o3UIUfRl-rRk"}
+my_tokens = {"korza" : "OTU3Mzk2Mjk3ODAxOTMyOTAw.YmCmcg.Hhc-n3sJwLG_3sbW2S_wVMq6n8E",
+"bilbasse" : "OTU3Mzk4MjAwNjczNzkyMDQw.YmE3xw.EEMq8du7EBO8V5PLMiIBZR2mp50",
+"armsl" : "OTU3NDAxNzU3OTU1MjgwOTg2.YmE4Qw.3eCdyyN2pG4Yz-Y5JlhSMkaIQ_M",
+"toastv2" : "ODM0ODgxNzg2NjEzNDY1MTE4.YmE40Q.9-Pci82kDt9nT-G7YKg2RBL_WBY",
+"pastARK" : "ODUzMzAyMjA0MzA3MzQxMzI3.YmE-NQ.CuvCviFhoiBaEC9aAIQkiqIryRE",
+"svens" : "OTY2NDI3MjcyMDUzNjc0MDg1.YmE-gA.vK9hywTwjR9Rdr1nFNA2tF9KIVQ"}
 
 
 
